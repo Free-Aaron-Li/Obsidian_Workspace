@@ -1,0 +1,3 @@
+ObsidianFix.bat 就是修复无法下载社区插件的补丁。
+
+ObsidianFix恢复.bat 则是将打过补充的 Obsidian 进行还原。

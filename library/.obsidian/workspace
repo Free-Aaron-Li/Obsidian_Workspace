@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "74190818eb656174",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9d15e0ae5c9343b",
+        "type": "leaf",
+        "state": {
+          "type": "pdf-annotator",
+          "state": {
+            "file": "浪潮之巅学习笔记.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7896d9f352608ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a20f48a530f556f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34e94653ecb98b37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa1da675500479ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f63f83871c2e0422",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "013246d9ae3f901c",
+    "type": "split",
+    "children": [
+      {
+        "id": "af9ae85b07785fec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c604752bd7fc7d38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "浪潮之巅学习笔记.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e9296bd488b3c4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "479a9a3bb39dae07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "浪潮之巅学习笔记.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d9d15e0ae5c9343b",
+  "lastOpenFiles": [
+    "浪潮之巅学习笔记.md",
+    "浪潮之巅 (第4版) by 吴军.pdf",
+    "未命名.md",
+    "zettelkasten.md",
+    "文件搜索.md",
+    "Tools/TabCopy Options_复制plugin.md",
+    "photo/Niklas Luhmand.png"
+  ]
+}
