@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:photo",
+      "color": {
+        "a": 1,
+        "rgb": 11510177
+      }
+    },
+    {
+      "query": "line:()",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "section:()",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "file:",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#基本数据类型",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#引用数据类型",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#三元运算符规则",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.81530740276035,
+  "lineSizeMultiplier": 1.46848475902281,
+  "collapse-forces": false,
+  "centerStrength": 0.242081447963801,
+  "repelStrength": 8.42706313294549,
+  "linkStrength": 0.869532428355958,
+  "linkDistance": 260,
+  "scale": 0.6422332154855672,
+  "close": true
+}
