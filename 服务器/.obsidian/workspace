@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "27da48bf2e9ad883",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5b7095d8f8c60ed",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "惠普.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff2664032034c6b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "83a818b50973de25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cc8b01089ad733d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a732e3a45d741e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58a15605d3b56375",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eaa0966d0bb76d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57252ec61ae93a4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "惠普.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c5b7095d8f8c60ed",
+  "lastOpenFiles": [
+    "惠普.md",
+    "戴尔.md",
+    "未命名.md",
+    "Pasted image 20211227193308.png",
+    "Pasted image 20211227193042.png"
+  ]
+}
