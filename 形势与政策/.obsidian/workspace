@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "dbafa75e14fb4036",
+    "type": "split",
+    "children": [
+      {
+        "id": "a65e9c875f6f2b3d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "网络空间中美战略博弈态势、动因及未来走向_余丽.注释.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f961a2de8c69d663",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8851dffeecdd1c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df0e28862ea0aa55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8d58cf89690ab3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "ab2e85c9b531bb29",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0fc1235cfd02784",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8950828d5fae886a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "网络空间中美战略博弈态势、动因及未来走向_余丽.注释.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a65e9c875f6f2b3d",
+  "lastOpenFiles": [
+    "网络空间中美战略博弈态势、动因及未来走向_余丽.注释.md",
+    "形式与政策网站地址.md",
+    "中美对网络空间的矛盾.md",
+    "三项原则”为新时期中美关系把舵引航_刘明.注释.md",
+    "PDF/“三项原则”为新时期中美关系把舵引航_刘明.pdf",
+    "PDF/网络空间中美战略博弈态势、动因及未来走向_余丽.pdf",
+    "PDF/中美科技关系走向研判_郎丽华.pdf",
+    "PDF/中美网络空间战略比较_目标、手段与模式_蔡翠红.pdf",
+    "PDF/拜登政府网络安全战略的调整与中国应对_邢瑞利.pdf",
+    "Roam-Highlights.md"
+  ]
+}
