@@ -30,7 +30,7 @@
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
   ],
-  "tabSize": 2,
+  "tabSize": 4,
   "legacyEditor": false,
   "livePreview": true
 }
