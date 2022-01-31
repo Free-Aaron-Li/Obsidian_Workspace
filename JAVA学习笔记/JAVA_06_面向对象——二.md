@@ -116,6 +116,26 @@ User u1 = p1;//编译错误
 *类似：int[] x,y[]; //表示：定义了一个一维数组x和二维数组y；
 */
 ```  
+```java
+package student;  
+  
+/*  
+ * @author: Aaron.Li * @data: 2022 - 01 - 30 - 下午1:58  
+ * @project: IDEA_Workspace * @version: JDK17.0.2 */public class ValueTransferTest {  
+ public static void main(String[] args) {  
+ String s1 = "hello";  
+ ValueTransferTest test = new ValueTransferTest();  
+ test.change(s1);  
+ System.out.println(s1);  
+ }  
+  
+ public void change(String s) {  
+ s = "hi~~";  
+ }  
+}
+```
+内存解析：
+![[Pasted image 20220130231652.png]]
 ### return关键词的作用
 一、结束方法
 二、针对于有返回值的方法，return + 返回数据
