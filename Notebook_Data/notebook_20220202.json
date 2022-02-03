@@ -1,0 +1,66 @@
+{
+  "{\"id\":1,\"title\":\"JAVA_06_面向对象———二\",\"showOrder\":1,\"createTime\":1643702645474,\"updateTime\":1643702645474}" : {
+    "{\"id\":1,\"title\":\"面向对象的特征一：封装与隐藏\",\"showOrder\":1,\"createTime\":1643702645498,\"updateTime\":1643702645498,\"notebookId\":1}" : [ {
+      "id" : 1,
+      "title" : "一、问题的引入",
+      "showOrder" : 1,
+      "createTime" : 1643702645507,
+      "updateTime" : 1643703985291,
+      "chapterId" : 1,
+      "notebookId" : 1,
+      "content" : "public class Test38_AnimalTest {\n    public static void main(String[] args) {\n        Animal test = new Animal();\n        test.name = \"阿福\";\n        test.ages = 4;\n        //test.legs = 4;\n        test.show();\n        System.out.println();\n        test.setlegs(-1);\n    }\n}\n\n/**\n * 创建一个类Animal\n */\nclass Animal {\n    String name;\n    int ages;\n    private int legs;\n\n    public void setlegs(int l) {\n        if (l >= 0 && l % 2 == 0) {\n            legs = l;\n        } else {\n            legs = 0;\n        }\n    }\n\n    public void show() {\n        System.out.println(\"This is \" + name + \",it's ages is:\" + ages + \"it's legs is\" + legs);\n    }\n}",
+      "description" : "当我们创建一个类的对象以后，我们通过“对象.属性”的方式，对对象的属性进行赋值。其中赋值操作受到属性的数据类型和存储范围的制约。但是在实际的情况中，我们往往需要添加额外的条件。这个条件就不能在属性声明时体现，我们只能够通过方法添加限制条件。（比如：通过添加私有(private)，来使得不能调用legs属性，从而达到想要的目的）-->这就是封装性的体现",
+      "source" : "/home/Aaron-Li/IdeaProjects/IDEA_Workspace/Txet/src/top/kukuli/Test38_AnimalTest.java",
+      "offsetStart" : 0,
+      "offsetEnd" : 0,
+      "type" : "java",
+      "imageRecords" : null
+    }, {
+      "id" : 2,
+      "title" : "二、封装性的体现",
+      "showOrder" : 2,
+      "createTime" : 1643725004945,
+      "updateTime" : 1643725289183,
+      "chapterId" : 1,
+      "notebookId" : 1,
+      "content" : " /**\n     * 对属性的设置\n     *\n     * @param l\n     */\n    public void setLegs(int l) {\n        if (l >= 0 && l % 2 == 0) {\n            legs = l;\n        } else {\n            legs = 0;\n        }\n    }\n    public void setAge(int a){\n        ages=a;\n    }\n\n    /**\n     * 对属性的获取\n     *\n     * @return\n     */\n    public int getLegs() {\n        return legs;\n    }\n    public int getAge(){\n        return ages;\n    }\n",
+      "description" : "我们将类的属性私有化（private），提供公共的（public）方法来获取（getXxx）和设置（setXxx）\n\n \n拓展：封装性的体现：1.如上 2.不对外暴露的私有的方法 3.单例模式……",
+      "source" : "/home/Aaron-Li/IdeaProjects/IDEA_Workspace",
+      "offsetStart" : 0,
+      "offsetEnd" : 0,
+      "type" : "java",
+      "imageRecords" : null
+    }, {
+      "id" : 3,
+      "title" : "三、封装性的体现、需要权限修饰符来配合",
+      "showOrder" : 3,
+      "createTime" : 1643725315394,
+      "updateTime" : 1643778389132,
+      "chapterId" : 1,
+      "notebookId" : 1,
+      "content" : "",
+      "description" : "1.Java规定的4种权限（从小到大排列）：private、缺省、protected、public；\n2.4种权限都可以用来修饰类的内部结构：属性、方法、构造器、内部类。\n 3.具体解释：\n 修饰类，只能使用：缺省、public。",
+      "source" : "/home/Aaron-Li/IdeaProjects/IDEA_Workspace",
+      "offsetStart" : 0,
+      "offsetEnd" : 0,
+      "type" : "",
+      "imageRecords" : "[{\"imageTitle\":\"\",\"imageDesc\":\"\",\"imagePath\":\"waJfUYWXpY3n1iaB00JAvkYM3GC3wMj8.png\"}]"
+    } ],
+    "{\"id\":2,\"title\":\"类的结构之三：构造器\",\"showOrder\":2,\"createTime\":1643793971988,\"updateTime\":1643793971988,\"notebookId\":1}" : [ {
+      "id" : 4,
+      "title" : "一、构造器的作用",
+      "showOrder" : 4,
+      "createTime" : 1643794022043,
+      "updateTime" : 1643794022043,
+      "chapterId" : 2,
+      "notebookId" : 1,
+      "content" : "",
+      "description" : "",
+      "source" : "/home/Aaron-Li/IdeaProjects/IDEA_Workspace",
+      "offsetStart" : 0,
+      "offsetEnd" : 0,
+      "type" : "",
+      "imageRecords" : null
+    } ]
+  }
+}
