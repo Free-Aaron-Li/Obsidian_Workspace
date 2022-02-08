@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JAVA_06_面向对象——序章.md",
+            "file": "JAVA_06_面向对象———二.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA_06_面向对象——序章.md",
+                "file": "JAVA_06_面向对象———二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA_06_面向对象——序章.md"
+                "file": "JAVA_06_面向对象———二.md"
               }
             }
           }
@@ -120,9 +120,9 @@
   },
   "active": "d1c838224002eb58",
   "lastOpenFiles": [
+    "JAVA_06_面向对象———二.md",
     "JAVA_06_面向对象——序章.md",
     "JAVA_06_面向对象——一.md",
-    "JAVA_06_面向对象———二.md",
     "JAVA_05_数组.md",
     "JAVA_03_运算符.md",
     "阿里巴巴JAVA规范手册.md",
