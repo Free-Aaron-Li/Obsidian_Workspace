@@ -4,28 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "d1c838224002eb58",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JAVA_06_面向对象——一.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "b10f30f4aed8e63f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JAVA_06_面向对象———二.md",
-            "mode": "preview",
+            "file": "设计模式.md",
+            "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "3db2195b6a5ae5a2"
+      },
+      {
+        "id": "5282d08cb7479cf1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "设计模式.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "3db2195b6a5ae5a2"
       }
     ],
     "direction": "vertical"
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA_06_面向对象——一.md",
+                "file": "设计模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA_06_面向对象——一.md"
+                "file": "设计模式.md"
               }
             }
           }
@@ -118,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d1c838224002eb58",
+  "active": "b10f30f4aed8e63f",
   "lastOpenFiles": [
+    "设计模式.md",
+    "JDK中主要包的介绍.md",
+    "JAVA_06_面向对象———二.md",
     "JAVA_06_面向对象——一.md",
     "JAVA_02_命名&变量.md",
     "JAVA_03_运算符.md",
     "JAVA_06_面向对象——序章.md",
-    "JAVA_06_面向对象———二.md",
     "JAVA_05_数组.md",
     "阿里巴巴JAVA规范手册.md",
-    "阿里巴巴Java开发手册.注释.md",
-    "JAVA_04_流程控制.md",
-    "JAVA_01_注释&历史.md"
+    "阿里巴巴Java开发手册.注释.md"
   ]
 }
