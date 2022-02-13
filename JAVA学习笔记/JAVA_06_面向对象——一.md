@@ -1,4 +1,4 @@
-
+[[JAVA]]_07
 
 
 
@@ -9,7 +9,7 @@
 >网络资源，URL；
 
 2.涉及到Java语言和前端HTML、后端数据库交互时，都体现为类、对象。
-## 匿名对象
+## [[匿名对象]]
 匿名对象的使用：
 
 ```java
@@ -70,7 +70,7 @@ class Phone {
 ```
 ## 自定义数组的工具类
 Test32_ArrayUtilTest
-### 方法的重载
+### 方法的[[重载]]
 Test33_OverLoadTest
 
 > 概念：
@@ -87,7 +87,7 @@ Test33_OverLoadTest
 > >double add(double x,double y){return x+y;}
 
 *要点*：“两同一不同”：同一个类、相同方法名；参数列表不同。
-### 可变个数的形参
+### [[可变个数的形参]]
 Test34_MethodArgsTest
 
  * 可变个数形参的方法  
@@ -136,7 +136,7 @@ package student;
 ```
 内存解析：
 ![[Pasted image 20220130231652.png]]
-### return关键词的作用
+## return关键词的作用
 一、结束方法
 二、针对于有返回值的方法，return + 返回数据
 ### 代码的内存解析

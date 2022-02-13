@@ -1,3 +1,5 @@
+[[JAVA]]_JDK
+
 1.
 java.lang ---包含一些Java语言的核心类，如：String、Math、Integer、System和Thread,提供常用功能。
 2.
