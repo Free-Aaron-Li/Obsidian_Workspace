@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "项目/项目二：客户信息管理软件.md",
+            "file": "项目/项目二 客户信息管理软件.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         },
         "group": "4ac0119869f2d5fd"
@@ -22,9 +22,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "项目/项目二：客户信息管理软件.md",
-            "mode": "source",
-            "source": false
+            "file": "项目/项目二 客户信息管理软件.md",
+            "mode": "preview",
+            "source": true
           }
         },
         "group": "4ac0119869f2d5fd"
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目/项目二：客户信息管理软件.md",
+                "file": "项目/项目二 客户信息管理软件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/项目二：客户信息管理软件.md"
+                "file": "项目/项目二 客户信息管理软件.md"
               }
             }
           }
@@ -123,6 +123,7 @@
   },
   "active": "361a6157a71afa87",
   "lastOpenFiles": [
+    "项目/项目二 客户信息管理软件.md",
     "项目/项目二：客户信息管理软件.md",
     "JAVA_06_面向对象———二.md",
     "JDK包介绍/JDK主要包介绍.md",
@@ -131,7 +132,6 @@
     "JAVA_02_命名&变量.md",
     "硬盘推荐.md",
     "阿里巴巴Java开发手册.注释.md",
-    "阿里巴巴JAVA规范手册.md",
-    "设计模式/MVC设计模式.md"
+    "阿里巴巴JAVA规范手册.md"
   ]
 }
