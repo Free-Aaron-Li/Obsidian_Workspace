@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IDEA使用/Debug使用.md",
+            "file": "JAVA_06_面向对象———三.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         },
         "group": "4ac0119869f2d5fd"
@@ -22,9 +22,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IDEA使用/Debug使用.md",
-            "mode": "source",
-            "source": false
+            "file": "JAVA_06_面向对象———三.md",
+            "mode": "preview",
+            "source": true
           }
         },
         "group": "4ac0119869f2d5fd"
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA使用/Debug使用.md",
+                "file": "JAVA_06_面向对象———三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDEA使用/Debug使用.md"
+                "file": "JAVA_06_面向对象———三.md"
               }
             }
           }
@@ -122,6 +122,7 @@
   },
   "active": "361a6157a71afa87",
   "lastOpenFiles": [
+    "JAVA_06_面向对象———三.md",
     "IDEA使用/Debug使用.md",
     "JAVA快捷键.md",
     "JAVA_06_面向对象———二.md",
@@ -130,7 +131,6 @@
     "UML.md",
     "Pasted image 20220215222258.png",
     "Pasted image 20220213180912.png",
-    "Pasted image 20220130231652 1.png",
-    "Pasted image 20220130231652.png"
+    "Pasted image 20220130231652 1.png"
   ]
 }
