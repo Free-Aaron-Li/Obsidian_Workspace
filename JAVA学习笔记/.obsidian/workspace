@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JAVA_06_面向对象———三.md",
+            "file": "设计模式/MVC设计模式.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JAVA_06_面向对象———三.md",
+            "file": "设计模式/MVC设计模式.md",
             "mode": "preview",
             "source": true
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA_06_面向对象———三.md",
+                "file": "设计模式/MVC设计模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA_06_面向对象———三.md"
+                "file": "设计模式/MVC设计模式.md"
               }
             }
           }
@@ -122,6 +122,7 @@
   },
   "active": "361a6157a71afa87",
   "lastOpenFiles": [
+    "设计模式/MVC设计模式.md",
     "JAVA_06_面向对象———三.md",
     "JAVA_06_面向对象———二.md",
     "JAVA_06_面向对象——一.md",
@@ -130,7 +131,6 @@
     "JAVA_02_命名&变量.md",
     "JAVA_01_注释&历史.md",
     "UML.md",
-    "Pasted image 20220215222258.png",
-    "Pasted image 20220213180912.png"
+    "Pasted image 20220215222258.png"
   ]
 }
