@@ -1,3 +1,10 @@
+<!--
+ * @Description: 
+ * @version: JDK17
+ * @Author: Aaron.Li
+ * @Date: 2022-02-25 17:34:26
+ * @LastEditTime: 2022-03-12 18:34:39
+-->
 ## 方法的重写（override/overwrite）
 ### 1.重写：
 子类继承父类以后，可以对父类中同名同参数的方法，进行覆盖操作。
@@ -48,6 +55,32 @@ Bruce Eckel：“不要犯傻，如果它不是晚绑定，它就不是多态”
 * 传递性：如果x.equals(y)返回的是“true”,而且y.equals(z)返回是“true”,那么z.equals(x)也应该返回是“true”。
 * 一致性：如果x.equals(y)返回是“true”,只要x和y的内容一直不变，不管重复x.equals(y)多少次，返回都是“true”。
 * 任何情况下：x.equals(null),永远返回“false”；x.equals（和x不同类型的对象）永远返回是“false”。
+
+# 包装类(Wrapper)的使用
+* 针对八种基本数据类型定义的引用类型-包装类（封装类）
+* 有了类的特点，就可以调用类中的方法，Java才是真正的面向对象
+ 
+|基本数据类型  |包装类    |
+|:----------:|:-------:|
+|byte        |Byte     |
+|short       |Short    |
+|int         |Integer  | 
+|long        |Long     |
+|float       |Float    |
+|double      |Double   |
+|boolean     |Boolean  |
+|char        |Character|
+
+| 父类Number  |
+|:---:|
+|Byte|
+|Short|
+|Integer|
+|Long|
+|Float|
+|Double|
+
+
 (⊙﹏⊙)b
 TCP/IP：应用层、运输层（进程通信服务、TCP）、网际层（负责把源主机的报文分组送到目的主机）、网络接口层（通过网络发送和接收IP数据报）
 OSI:应用层、表示层（加密和解密、数据压缩与恢复、格式变换）、会话层、运输层、网络层、数据链路层、物理层
